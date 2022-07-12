@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="projWithTali">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/projWithTali.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
